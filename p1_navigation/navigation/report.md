@@ -46,47 +46,47 @@
 
 2. start = 0.995, end = 0.01, decay = 0.995
 
-	Episode 100	Average Score: 0.67
-	Episode 200	Average Score: 4.21
-	Episode 300	Average Score: 7.13
-	Episode 400	Average Score: 10.16
-	Episode 496	Average Score: 13.04
+	Episode 100	Average Score: 0.67<br />
+	Episode 200	Average Score: 4.21<br />
+	Episode 300	Average Score: 7.13<br />
+	Episode 400	Average Score: 10.16<br />
+	Episode 496	Average Score: 13.04<br />
 	Environment solved in 396 episodes!	Average Score: 13.04
 
 
 3. max_t=1000, eps_start=0.995, eps_end=0.05, eps_decay=0.85
 
-	Episode 100	Average Score: 4.28
-	Episode 200	Average Score: 7.85
-	Episode 300	Average Score: 12.12
-	Episode 381	Average Score: 13.03
+	Episode 100	Average Score: 4.28<br />
+	Episode 200	Average Score: 7.85<br />
+	Episode 300	Average Score: 12.12<br />
+	Episode 381	Average Score: 13.03<br />
 	Environment solved in 281 episodes!	Average Score: 13.03
 
 
 4. max_t=1000, eps_start=0.995, eps_end=0.01, eps_decay=0.85
 
-	Episode 100	Average Score: 2.99
-	Episode 200	Average Score: 6.96
-	Episode 300	Average Score: 12.20
-	Episode 328	Average Score: 13.05
+	Episode 100	Average Score: 2.99<br />
+	Episode 200	Average Score: 6.96<br />
+	Episode 300	Average Score: 12.20<br />
+	Episode 328	Average Score: 13.05<br />
 	Environment solved in 228 episodes!	Average Score: 13.05
 
 
 5. max_t=1000, eps_start=1.0, eps_end=0.01, eps_decay=0.85
 
-	Episode 100	Average Score: 4.08
-	Episode 200	Average Score: 9.12
-	Episode 300	Average Score: 12.66
-	Episode 314	Average Score: 13.11
+	Episode 100	Average Score: 4.08<br />
+	Episode 200	Average Score: 9.12<br />
+	Episode 300	Average Score: 12.66<br />
+	Episode 314	Average Score: 13.11<br />
 	Environment solved in 214 episodes!	Average Score: 13.11
 
 
 
 6. max_t=1000, eps_start=1.0, eps_end=0.01, eps_decay=0.82
 
-	Episode 100	Average Score: 4.71
-	Episode 200	Average Score: 9.46
-	Episode 264	Average Score: 13.07
+	Episode 100	Average Score: 4.71<br />
+	Episode 200	Average Score: 9.46<br />
+	Episode 264	Average Score: 13.07<br />
 	Environment solved in 164 episodes!	Average Score: 13.07
 
 
@@ -95,42 +95,42 @@
 ### RESULTS BY USING DIFFERENT DQN VARIENTS (REFER FILES dqn_agent.py, dqn_agent_PER.py , model.py (contains duelingQ network))
 
 1. FIXED TARGETS
-	Episode 100	Average Score: 0.98
-	Episode 200	Average Score: 4.24
-	Episode 300	Average Score: 7.48
-	Episode 400	Average Score: 10.19
-	Episode 496	Average Score: 13.03
+	Episode 100	Average Score: 0.98<br />
+	Episode 200	Average Score: 4.24<br />
+	Episode 300	Average Score: 7.48<br />
+	Episode 400	Average Score: 10.19<br />
+	Episode 496	Average Score: 13.03<br />
 	Environment solved in 396 episodes!	Average Score: 13.03
 
 
 2. DOUBLE DQN
 
-	Episode 100	Average Score: 1.69
-	Episode 200	Average Score: 6.38
-	Episode 300	Average Score: 10.19
-	Episode 376	Average Score: 13.04
+	Episode 100	Average Score: 1.69<br />
+	Episode 200	Average Score: 6.38<br />
+	Episode 300	Average Score: 10.19<br />
+	Episode 376	Average Score: 13.04<br />
 	Environment solved in 276 episodes!	Average Score: 13.04
 
 
 
 3. DuelingQNetwork + Double DQN 
 
-	Episode 100	Average Score: 0.70
-	Episode 200	Average Score: 4.42
-	Episode 300	Average Score: 5.76
-	Episode 400	Average Score: 10.63
-	Episode 457	Average Score: 13.03
+	Episode 100	Average Score: 0.70<br />
+	Episode 200	Average Score: 4.42<br />
+	Episode 300	Average Score: 5.76<br />
+	Episode 400	Average Score: 10.63<br />
+	Episode 457	Average Score: 13.03<br />
 	Environment solved in 357 episodes!	Average Score: 13.03
 
 
 
 4. DuelingQNetwork + Double DQN + PER
 
-	Episode 100	Average Score: 0.97
-	Episode 200	Average Score: 4.14
-	Episode 300	Average Score: 8.90
-	Episode 400	Average Score: 11.03
-	Episode 492	Average Score: 13.10
+	Episode 100	Average Score: 0.97<br />
+	Episode 200	Average Score: 4.14<br />
+	Episode 300	Average Score: 8.90<br />
+	Episode 400	Average Score: 11.03<br />
+	Episode 492	Average Score: 13.10<br />
 	Environment solved in 392 episodes!	Average Score: 13.10
 
 
