@@ -36,10 +36,15 @@
 1. default : start = 1.0, end = 0.01, decay = 0.995
 
 	Episode 100	Average Score: 0.98
+
 	Episode 200	Average Score: 4.24
+
 	Episode 300	Average Score: 7.48
+	
 	Episode 400	Average Score: 10.19
+	
 	Episode 496	Average Score: 13.03
+	
 	Environment solved in 396 episodes!	Average Score: 13.03
 
 
