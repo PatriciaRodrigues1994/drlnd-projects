@@ -62,7 +62,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 2. Place the file in the DRLND GitHub repository, in the `p2_continuous-control/` folder, and unzip (or decompress) the file. 
 
-<<<<<<< HEAD
+
 
 ### Dependencies
     To set up your python environment to run the code in this repository, follow the instructions below.
@@ -90,10 +90,6 @@ The environment is considered solved, when the average (over 100 episodes) of th
     Kernel
 
 
-
-
-=======
->>>>>>> 4648dcc400f5fa953a7467a08e9468d621ab3da3
 ### Instructions
 
 Follow the instructions in `Continuous_Control_1_Agent.ipynb` to train the first version of the project!  
