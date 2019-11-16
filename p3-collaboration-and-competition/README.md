@@ -4,7 +4,7 @@
 
 This is my solution to the third project of the Udacity Deep Reinforcement Learning Nanodegree. In this project we were asked to build agents that could play a game of tennis. 
 
-#Environment
+## Environment
 
 We were provided an environment built with Unity ML-Agent toolkit. 
 
